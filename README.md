@@ -1,1 +1,1 @@
-# Bug-manage
+# Bug-management
